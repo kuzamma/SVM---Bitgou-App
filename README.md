@@ -12,11 +12,11 @@ This project is a machine learning application utilizing Support Vector Machines
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/bitgou_app.git
+    git clone https://github.com/kuzamma/SVM---Bitgou-App.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd bitgou_app
+    cd SVM---Bitgou-App
     ```
 3. Install the required dependencies:
     ```bash
